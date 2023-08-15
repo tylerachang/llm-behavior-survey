@@ -1,7 +1,9 @@
 # llm-behavior-survey
-Webpage for the paper: [Language Model Behavior: A Comprehensive Survey](https://arxiv.org/abs/2303.11504) (2023). See paper for discussion and details on each section.
+Webpage for the paper: [Language Model Behavior: A Comprehensive Survey](https://arxiv.org/abs/2303.11504) (2023).
 
-<b>Abstract</b></br>
+See paper for discussion and details on each section.
+
+### Abstract
 Transformer language models have received widespread public attention, yet their generated text is often surprising even to NLP researchers.
 In this survey, we discuss over 250 recent studies of English language model behavior before task-specific fine-tuning.
 Language models possess basic capabilities in syntax, semantics, pragmatics, world knowledge, and reasoning, but these capabilities are sensitive to specific inputs and surface features.
@@ -9,7 +11,7 @@ Despite dramatic increases in generated text quality as models scale to hundreds
 Many of these weaknesses can be framed as over-generalizations or under-generalizations of learned patterns in text.
 We synthesize recent results to highlight what is currently known about large language model capabilities, thus providing a resource for applied work and for research in adjacent fields that use language models.
 
-<b>Contents</b></br>
+### Contents
 * Transformer language models
 * Syntax
 * Semantics and pragmatics
@@ -19,7 +21,7 @@ We synthesize recent results to highlight what is currently known about large la
 * Bias, privacy, and toxicity
 * Misinformation, personality, and politics
 
-<b>Citation</b></br>
+### Citation
 <pre>
 @article{chang-bergen-2023-language,
   title={Language Model Behavior: A Comprehensive Survey},
