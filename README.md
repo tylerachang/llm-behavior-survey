@@ -1,7 +1,7 @@
 # llm-behavior-survey
 Webpage for the paper: [Language Model Behavior: A Comprehensive Survey](https://arxiv.org/abs/2303.11504) (2023).
 
-See paper for discussion and details on each section.
+See paper for discussion and details on each section. Links to citations are included below.
 
 ### Abstract
 Transformer language models have received widespread public attention, yet their generated text is often surprising even to NLP researchers.
