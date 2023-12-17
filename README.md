@@ -1,5 +1,5 @@
 # llm-behavior-survey
-Webpage for the paper: [Language Model Behavior: A Comprehensive Survey](https://arxiv.org/abs/2303.11504) (Computational Linguistics, 2023).
+Webpage for the paper: [Language Model Behavior: A Comprehensive Survey](https://arxiv.org/abs/2303.11504) (Computational Linguistics, 2024).
 
 See paper for discussion and details on each section. Links to citations are included below.
 
@@ -23,11 +23,11 @@ We synthesize recent results to highlight what is currently known about large la
 
 ### Citation
 <pre>
-@article{chang-bergen-2023-language,
+@article{chang-bergen-2024-language,
   title={Language Model Behavior: A Comprehensive Survey},
   author={Tyler A. Chang and Benjamin K. Bergen},
   journal={Computational Linguistics},
-  year={2023},
+  year={2024},
   url={https://arxiv.org/abs/2303.11504},
 }
 </pre>
